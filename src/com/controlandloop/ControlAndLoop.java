@@ -18,7 +18,7 @@ public class ControlAndLoop {
 	    int maxInt=findMaxIntInArray(intArray);
 	    
 	
-		System.out.println("*** Initial Array ***");
+		System.out.println("***** Initial Array  *****");
 		System.out.println(Arrays.toString(intArray));
 		System.out.println("*** Max number in array ***");
 		System.out.println(maxInt);
